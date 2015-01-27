@@ -1,4 +1,4 @@
-﻿//This has been modified !
+﻿//This has been Scynced !
 
 using UnityEngine;
 using System.Collections;
